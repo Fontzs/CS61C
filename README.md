@@ -1,5 +1,9 @@
 [CS61C-22fall](https://cs61c.org/fa22/)
 
+## lecture
+
+[CS61C FA20](https://www.bilibili.com/video/BV1km4y1B747?p=1&vd_source=ffd7aa33c178fb1cead28a3d0df0d4d0)
+
 ## Resources
 [venus](https://venus.cs61c.org/)
 
