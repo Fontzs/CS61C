@@ -31,18 +31,6 @@
 - [ ] Lab 9: Thread Level Parallelism
 - [ ] Lab 10: OS, VM
 
-## HW
-
-- [x] HW1: Homework 1
-- [ ] HW2: Homework 2
-- [ ] HW3: Homework 3
-- [ ] HW4: Homework 4
-- [ ] HW5: Homework 5
-- [ ] HW6: Homework 6
-- [ ] HW7: Homework 7
-- [ ] HW8: Homework 8
-- [ ] HW9: Homework 9
-
 ## Projects
 
 - [x] Project 1: snek
