@@ -1,0 +1,2 @@
+/tests/reference-output/*.csv text eol=lf
+/tests/student-output/*.csv text eol=lf
