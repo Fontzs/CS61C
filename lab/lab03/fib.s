@@ -1,4 +1,4 @@
-.data
+.data  
 n: .word 9
 
 .text
