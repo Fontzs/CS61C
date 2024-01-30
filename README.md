@@ -27,7 +27,7 @@
 - [x] Lab 1: C, CGDB
 - [x] Lab 2: C Memory Management, Valgrind
 - [x] Lab 3: RISC-V Assembly
-- [ ] Lab 4: RISC-V Calling Convention
+- [x] Lab 4: RISC-V Calling Convention
 - [ ] Lab 5: Logisim
 - [ ] Lab 6: CPU, Pipelining
 - [ ] Lab 7: Caches
