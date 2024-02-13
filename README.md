@@ -29,7 +29,7 @@
 - [x] Lab 3: RISC-V Assembly
 - [x] Lab 4: RISC-V Calling Convention
 - [x] Lab 5: Logisim
-- [ ] Lab 6: CPU, Pipelining
+- [x] Lab 6: CPU, Pipelining
 - [ ] Lab 7: Caches
 - [ ] Lab 8: SIMD Instructions
 - [ ] Lab 9: Thread Level Parallelism
