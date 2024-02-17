@@ -30,7 +30,7 @@
 - [x] Lab 4: RISC-V Calling Convention
 - [x] Lab 5: Logisim
 - [x] Lab 6: CPU, Pipelining
-- [ ] Lab 7: Caches
+- [x] Lab 7: Caches
 - [ ] Lab 8: SIMD Instructions
 - [ ] Lab 9: Thread Level Parallelism
 - [ ] Lab 10: OS, VM
