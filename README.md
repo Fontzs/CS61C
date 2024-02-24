@@ -32,8 +32,8 @@
 - [x] Lab 6: CPU, Pipelining
 - [x] Lab 7: Caches
 - [x] Lab 8: SIMD Instructions
-- [ ] Lab 9: Thread Level Parallelism
-- [ ] Lab 10: OS, VM
+- [x] Lab 9: Thread Level Parallelism
+- [x] Lab 10: OS, VM
 
 ## Projects
 
